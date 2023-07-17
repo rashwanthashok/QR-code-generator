@@ -41,6 +41,9 @@ To explore or modify the code, follow these steps:
 
 3. Partial Responsive Design: Enjoy the QR code generator across various devices, although it may not fully adapt to all screen sizes.
 
+## Deployment status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bb20fc40-4af6-41e0-8835-d66ce33cb5e4/deploy-status)](https://app.netlify.com/sites/jsproject8-qr-code-generator/deploys)
 ## Contributing
 
 Contributions are always welcome!
