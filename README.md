@@ -16,7 +16,7 @@ Rashwanth - QR Code Generator
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-QR-Code-Generator/
+     https://rashwanthashok.github.io/QR-code-generator/
     
 ## Getting Started
 
